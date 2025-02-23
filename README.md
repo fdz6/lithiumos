@@ -1,2 +1,2 @@
-# lithiumos
+# LithiumOS
 Ubuntu Distro
